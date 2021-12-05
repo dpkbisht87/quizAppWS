@@ -1,0 +1,98 @@
+[
+  {
+    "question": {
+      "id": 1,
+      "content": "What is the capital of India?"
+    },
+    "optionList": [
+      {
+        "id": 1,
+        "content": "Delhi",
+        "questionId" : 1
+      },
+      {
+        "id": 2,
+        "content": "Mumbai",
+        "questionId" : 1
+      },
+      {
+        "id": 3,
+        "content": "Bangalore",
+        "questionId" : 1
+      },
+      {
+        "id": 4,
+        "content": "Chennai",
+        "questionId" : 1
+      }
+    ],
+    "correctAnswer": {
+      "id": 1,
+      "content": "Delhi"
+    }
+  },
+  {
+    "question": {
+      "id": 2,
+      "content": "Biggest muscle in human body?"
+    },
+    "optionList": [
+      {
+        "id": 5,
+        "content": "Hamstring",
+        "questionId" : 2
+      },
+      {
+        "id": 6,
+        "content": "Pectoral",
+        "questionId" : 2
+      },
+      {
+        "id": 7,
+        "content": "Gluteus maximus",
+        "questionId" : 2
+      },
+      {
+        "id": 8,
+        "content": "Biceps Brachii",
+        "questionId" : 2
+      }
+    ],
+    "correctAnswer": {
+      "id": 7,
+      "content": "Gluteus maximus"
+    }
+  },
+  {
+    "question": {
+      "id": 3,
+      "content": "Which language is Object Oriented?"
+    },
+    "optionList": [
+      {
+        "id": 9,
+        "content": "Java",
+        "questionId" : 3
+      },
+      {
+        "id": 10,
+        "content": "Python",
+        "questionId" : 3
+      },
+      {
+        "id": 11,
+        "content": "C",
+        "questionId" : 3
+      },
+      {
+        "id": 12,
+        "content": "Shell Script",
+        "questionId" : 3
+      }
+    ],
+    "correctAnswer": {
+      "id": 9,
+      "content": "Java"
+    }
+  }
+]
