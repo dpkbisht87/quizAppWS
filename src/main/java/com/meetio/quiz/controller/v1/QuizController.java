@@ -17,7 +17,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/api/v1/quiz/")
-
+@CrossOrigin(origins = "http://localhost:4200")
 public class QuizController {
     private static final Logger LOGGER = LoggerFactory.getLogger(QuizController.class);
 
